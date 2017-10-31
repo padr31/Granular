@@ -15,8 +15,10 @@ The problem was taken from the Young Physicists' Tournament 2015 (http://iypt.or
 The amount of space that granules take up and the amount of unused space filled with air around them is highly dependent on the shape of granules.
 
 The most usual indicators of the effectivity of packing are:
+
 **Packing density(denoted as phi)**
 The ratio between the volume of the granules and volume of the surrounding box in which they are packed.
+
 **Coordination number(denoted as n)**
 The average number of neighbours that an object is touching.
 
