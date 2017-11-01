@@ -28,8 +28,8 @@ The average number of neighbours that an object is touching.
 Aside of various physical approaches to the problem, I chose to also some 3D software and investigate the packing parametres of different shaped objects by:
 
 - Simulating random close packing in Blender 3D software by filling a box with granules and shaking the box inside the software.
-- Calculating packing density
-- Calculation 
+- Calculating packing densities
+- Calculating coordination numbers
 
 ## Issues
 To be able to run reasonably fast computation on my laptop, I used various approximations.
